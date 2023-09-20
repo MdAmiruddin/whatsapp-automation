@@ -1,6 +1,6 @@
 # Project :
 
-**Whatsapp Automation Bot For Business Chat.**
+**Whatsapp Automation Bot For Business Chattng.**
 
 This bot can handle your business appointment & orders. Provide information about your company.
 
